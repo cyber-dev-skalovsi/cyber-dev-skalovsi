@@ -82,7 +82,7 @@ Portfolio / contact → **[duoaquila.duoaquila-site.workers.dev](https://duoaqui
 
 <div align="center">
 
-[duoaquila.duoaquila-site.workers.dev](https://duoaquila.duoaquila-site.workers.dev) — or open an issue on any of my repos.
+[duoaquila.duoaquila-site.workers.dev](https://duoaquila.duoaquila-site.workers.dev), or open an issue on any of my repos.
 
 </div>
 

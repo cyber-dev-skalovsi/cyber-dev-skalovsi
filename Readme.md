@@ -25,10 +25,7 @@
 
 <div align="center">
 
-| repo | what it is |
-|---|---|
-| [Cheatmate](https://github.com/cyber-dev-skalovsi/Cheatmate) | real-time chess game analysis bot, written in C# |
-| [forge](https://github.com/cyber-dev-skalovsi/forge) | self-hosted single-user git forge (Forgejo + Tailscale + Cloudflare Worker) |
+Flagship projects live under the org → **[github.com/duoaquila](https://github.com/duoaquila)**
 
 </div>
 

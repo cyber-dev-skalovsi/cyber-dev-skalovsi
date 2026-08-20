@@ -67,25 +67,6 @@
 
 </div>
 
-<!-- ───────────────────────────  STATS  ─────────────────────────── -->
-
-## <samp>`git log`</samp>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cyber-dev-skalovsi&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c8a96e&text_color=888880&icon_color=c8a96e&count_private=true&include_all_commits=true&rank_icon=github" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-dev-skalovsi&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c8a96e&text_color=888880&langs_count=8" alt="langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-dev-skalovsi&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e&sideLabels=888880&currStreakNum=c8a96e&dates=888880&sideNums=c8a96e" height="165" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cyber-dev-skalovsi&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews,Issues" alt="trophies"/>
-
-</div>
-
 <!-- ───────────────────────────  ACTIVITY  ─────────────────────────── -->
 
 ## <samp>`activity`</samp>

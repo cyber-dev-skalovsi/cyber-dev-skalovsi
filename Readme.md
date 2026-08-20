@@ -27,6 +27,8 @@
 
 Flagship projects live under the org → **[github.com/duoaquila](https://github.com/duoaquila)**
 
+Portfolio / contact → **[duoaquila.duoaquila-site.workers.dev](https://duoaquila.duoaquila-site.workers.dev)**
+
 </div>
 
 <!-- ───────────────────────────  STACK  ─────────────────────────── -->
@@ -80,7 +82,7 @@ Flagship projects live under the org → **[github.com/duoaquila](https://github
 
 <div align="center">
 
-Open an issue or start a discussion on any of my repos, that's the best way to reach me for now.
+[duoaquila.duoaquila-site.workers.dev](https://duoaquila.duoaquila-site.workers.dev) — or open an issue on any of my repos.
 
 </div>
 

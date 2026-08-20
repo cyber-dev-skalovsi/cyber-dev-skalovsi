@@ -1,7 +1,7 @@
 <!-- ───────────────────────────  HEADER  ─────────────────────────── -->
 
 <a href="https://github.com/cyber-dev-skalovsi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:c8a96e&height=220&section=header&text=cyber-dev-skalovsi&fontColor=c8a96e&fontSize=52&fontAlignY=38&fontAlign=50&desc=backend%20%2F%20mobile%20%2F%20cloud%20%E2%80%94%20builds%20full%20stacks%20by%20hand&descAlign=50&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,50:1a1a1a,100:c8a96e&height=200&section=header&text=cyber-dev-skalovsi&fontColor=c8a96e&fontSize=46&fontAlignY=38&fontAlign=50&desc=backend%20/%20mobile%20/%20cloud%2C%20built%20by%20hand&descAlign=50&descAlignY=60&descSize=14&animation=twinkling" width="100%" alt="header"/>
 </a>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/cyber-dev-skalovsi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=C8A96E&center=true&vCenter=true&width=520&lines=%40cyber-dev-skalovsi;full-stack+by+hand" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=C8A96E&center=true&vCenter=true&width=520&lines=%40cyber-dev-skalovsi;full-stack%2C+by+hand" alt="typing"/>
 </a>
 
 <br/><br/>
@@ -25,9 +25,10 @@
 
 <div align="center">
 
-**[Cheatmate](https://github.com/cyber-dev-skalovsi/Cheatmate)** — real-time chess game analysis bot, written in C#
-&nbsp;·&nbsp;
-**[forge](https://github.com/cyber-dev-skalovsi/forge)** — self-hosted single-user git forge (Forgejo + Tailscale + Cloudflare Worker)
+| repo | what it is |
+|---|---|
+| [Cheatmate](https://github.com/cyber-dev-skalovsi/Cheatmate) | real-time chess game analysis bot, written in C# |
+| [forge](https://github.com/cyber-dev-skalovsi/forge) | self-hosted single-user git forge (Forgejo + Tailscale + Cloudflare Worker) |
 
 </div>
 
@@ -62,17 +63,7 @@
 | [M233-Reservation-System](https://github.com/cyber-dev-skalovsi/M233-Reservation-System) | room reservation system, Spring Boot |
 | [Trails-Application](https://github.com/cyber-dev-skalovsi/Trails-Application) | route/goal tracking app |
 | [Majmunje-News-Website](https://github.com/cyber-dev-skalovsi/Majmunje-News-Website) | news site, HTML/CSS/JS frontend + C# backend |
-| [M431-Pique-Website](https://github.com/cyber-dev-skalovsi/M431-Pique-Website) | my first-ever website — designed completely from scratch with no template, built entirely by hand |
-
-</div>
-
-<!-- ───────────────────────────  INTERESTS  ─────────────────────────── -->
-
-## <samp>`interests`</samp>
-
-<div align="center">
-
-`lua scripting`  ·  `backend systems`  ·  `cloud / serverless`  ·  `mobile`  ·  `full-stack web`
+| [M431-Pique-Website](https://github.com/cyber-dev-skalovsi/M431-Pique-Website) | my first-ever website, designed completely from scratch with no template, built entirely by hand |
 
 </div>
 
@@ -111,10 +102,10 @@
 
 <div align="center">
 
-Open an issue or start a discussion on any of my repos — that's the best way to reach me for now.
+Open an issue or start a discussion on any of my repos, that's the best way to reach me for now.
 
 </div>
 
 <!-- ───────────────────────────  FOOTER  ─────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a96e,50:1a1a1a,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:c8a96e,50:1a1a1a,100:0d0d0d&height=110&section=footer&animation=twinkling" width="100%" alt="footer"/>

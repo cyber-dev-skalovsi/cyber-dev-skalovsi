@@ -16,6 +16,7 @@ Self-taught / in-training developer working across backend, mobile, and cloud. I
 - **[M233-Reservation-System](https://github.com/cyber-dev-skalovsi/M233-Reservation-System)** — Room reservation management web app built with Spring Boot.
 - **[Trails-Application](https://github.com/cyber-dev-skalovsi/Trails-Application)** — App for tracking routes and goals.
 - **[Majmunje-News-Website](https://github.com/cyber-dev-skalovsi/Majmunje-News-Website)** — News website with an HTML/CSS/JS frontend and a C# backend.
+- **[M431-Pique-Website](https://github.com/cyber-dev-skalovsi/M431-Pique-Website)** — My first-ever website project, written entirely by hand in HTML/CSS.
 
 ## Tech Stack
 
